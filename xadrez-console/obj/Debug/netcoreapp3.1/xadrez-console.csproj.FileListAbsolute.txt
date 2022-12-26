@@ -1,0 +1,14 @@
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.exe
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.deps.json
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.json
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.dev.json
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.dll
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.pdb
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.AssemblyReference.cache
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfo.cs
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.dll
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.pdb
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.genruntimeconfig.cache
